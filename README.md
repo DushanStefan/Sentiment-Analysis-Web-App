@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentiment Analysis Project + Web App
 
 Sentiment analysis leverages natural language processing (NLP) and machine learning techniques to determine the emotional tone or sentiment behind textual data. The project focuses on analyzing and categorizing opinions expressed in text as positive, negative, or neutral. This is a crucial tool in areas such as customer feedback analysis, brand monitoring, and opinion mining.
 
